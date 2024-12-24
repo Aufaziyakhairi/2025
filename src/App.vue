@@ -3,10 +3,13 @@
     <h1 class="font-bold text-7xl">Welcome</h1>
     <p class="text-2xl ">My New Portofolio Style</p>
     <span class="bg-gray-200 w-[600px] h-[300px] absolute bottom-0 right-[10px] rounded-t-full drop-shadow-2xl"></span>
-    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"
-      class="absolute bottom-[20px] left-0 right-0 m-auto size-10" href="#about">
-      <path stroke-linecap="round" stroke-linejoin="round" d="m4.5 5.25 7.5 7.5 7.5-7.5m-15 6 7.5 7.5 7.5-7.5" />
-    </svg>
+    <a href="#about">
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"
+        class="absolute bottom-[20px] left-0 right-0 m-auto size-10">
+        <path stroke-linecap="round" stroke-linejoin="round" d="m4.5 5.25 7.5 7.5 7.5-7.5m-15 6 7.5 7.5 7.5-7.5" />
+      </svg>
+    </a>
+
     <img src="/src/assets/Untitled design.png" alt="" class="absolute bottom-0 right-[150px] w-[400px]">
   </header>
   <Navigationbar></Navigationbar>
