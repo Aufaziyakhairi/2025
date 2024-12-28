@@ -1,6 +1,6 @@
 // ContactForm.vue
 <template>
-  <div class="max-w-md p-6 mx-auto">
+  <div class="max-w-md p-6 mx-auto shadow-2xl rounded-2xl">
     <form @submit.prevent="sendEmail" class="space-y-4">
       <div>
         <label for="name" class="block mb-2">Nama:</label>
