@@ -158,8 +158,8 @@
             </g>
           </g>
         </svg>
-        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. At fugit voluptas, quis ipsa consectetur unde
-          officiis et delectus quisquam, rem impedit eligendi incidunt repellat nesciunt velit vel quam? Totam natus?
+        <p>Hello, I ’m Aufa Ziya Khairi I front end programmer from Indonesia. But I still learn in 1 Ciomas Vocational
+          School at Ciomas.
         </p>
       </div>
     </section>
